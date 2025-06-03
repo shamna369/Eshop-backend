@@ -18,6 +18,7 @@ const createToken = function (userId, res) {
   res.cookie("jwt", token, {
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",
+      sameSite: "none",
   });
   return token;
 };
