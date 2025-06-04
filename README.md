@@ -16,7 +16,7 @@ products a MongoDB database and displays them.
 - function preventing access restricted page(checkout) without registration/login
 
 The E-commerce demo can be [viewed online here ](https://eshop-store-q1kv.onrender.com)
-
+Frontend code :  https://github.com/shamna369/Eshop-frontend
 Admin can do CRUD operations on products .
 
 ##### IDE Development Setup
